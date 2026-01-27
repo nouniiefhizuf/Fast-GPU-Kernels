@@ -36,4 +36,4 @@ Kernel: 3240.11 GB/s
 cub Library: 3193 GB/s
 ```
 
-Example kernels are in [`sum.cu`](https://github.com/pranjalssh/fast.cu/tree/main/sum.cu)
+
