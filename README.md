@@ -20,8 +20,6 @@ Explanation in https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-
 
 make matmul && out/matmul
 
-Example kernels are in [`examples/matmul/`](https://github.com/pranjalssh/fast.cu/tree/main/examples/matmul) and orchestration is in [`matmul.cu`](https://github.com/pranjalssh/fast.cu/blob/main/matmul.cu)
-
 ## Sum reduction
 
 We compute sum of 2^30 elements.
